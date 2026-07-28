@@ -1,0 +1,1 @@
+import{r as e,t}from"./react-DieaS26h.js";var n=e(),r=t();function i(){let[e,t]=(0,n.useState)(``);return(0,n.useEffect)(()=>{if(!e)return;let n=setTimeout(()=>t(``),2600);return()=>clearTimeout(n)},[e]),[e,t,e?(0,r.jsx)(`div`,{className:`toast`,role:`status`,style:{zIndex:40},children:e}):null]}export{i as t};
